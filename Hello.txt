@@ -4,4 +4,4 @@ Test restart!
 Learning Git
 Test new
 new test
-alabala portokala
+ala
